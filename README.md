@@ -8,5 +8,3 @@ A simple, elegant digital clock built with HTML, CSS, and JavaScript.
 - Animated blinking colons
 - Current date display
 
-## Live Demo
-[View Clock](https://danielbalgobin.github.io/clock/)
